@@ -1,0 +1,17 @@
+-----------IDEA----------
+This is a very generic and simple management application.
+
+----------WARNING---------
+This software uses a lot of files.
+So, be sure to put it in a separate folder.
+
+----------How to use---------
+1.Follow the on screen instructions
+2.To give input use enter/return key of the keyboard
+3.Everything is case sensitive here
+4.Remember to read what the prompt asks you to do
+5.In diary mode you can use tilde(`) to toggle between modes
+6.Press Esc to finish entry in diary
+7.In diary press LShift+Tilde(~) for highlight mode
+8.You can have maximum 50 list entries with highest 100 length strings
+
